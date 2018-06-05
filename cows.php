@@ -1,4 +1,5 @@
 <?php
+//一头牛4岁时开始生牛，每年生一头，15岁绝育，二十岁死亡，n年后牛的总数。
 function getCows1($years){
 	$cows = array();
 	$cows[] = 0;    //$cows[i] 指第i头牛的出生时间
