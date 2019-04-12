@@ -6,7 +6,7 @@ function swap( &$arr , $i, $j ){
 	$arr[$j] = $c;
 }
 
-$arr = [ 2, 1, 8, 5, 4, 9, 7, 4, 3, 6];
+$arr = [ 2, 3, 8, 5, 4, 9, 3, 4, 3, 6];
 $arr1 = [3,0,1,2,4,2];
 /*function searchNum(){ 
 	global $arr;
